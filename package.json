@@ -29,7 +29,7 @@
         "sortablejs": "^1.15.0",
         "unplugin-auto-import": "^0.16.6",
         "vite": "^4.4.9",
-        "vue": "^3.3.4",
+        "vue": "^3.4.27",
         "vue-qrcode-reader": "^5.4.0",
         "vue-router": "^4.2.4"
     }
