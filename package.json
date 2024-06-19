@@ -13,7 +13,7 @@
         "@fortawesome/free-solid-svg-icons": "^6.4.2",
         "@fortawesome/vue-fontawesome": "^3.0.3",
         "@kyvg/vue3-notification": "^3.0.2",
-        "@vitejs/plugin-vue": "^4.3.4",
+        "@vitejs/plugin-vue": "^5.0.4",
         "@vueuse/components": "^10.4.1",
         "@vueuse/core": "^10.4.1",
         "@vueuse/integrations": "^10.6.1",
